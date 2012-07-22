@@ -104,4 +104,3 @@
 - Ash Courchene (Acour83)
 - Zach Thacker (SirBraneDamuj)
 - Tim Downey (tcdowney)
-- John Ryder (tokens)
